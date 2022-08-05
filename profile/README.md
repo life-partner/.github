@@ -83,3 +83,7 @@
 - [Front-End 트러블 슈팅](https://lifepartner.notion.site/Client-troubleshooting-f012e01129cc48dcaa0c397bd0bade60)
 
 - [Back-End 트러블 슈팅](https://lifepartner.notion.site/Back-troubleshooting-d46cd87f826f4172be01462d403be223)
+
+## 🚨 API 오류
+
+- [Notion으로 이동해서 한 번에 보기](https://lifepartner.notion.site/api-7c4728fc53ad4c52960510a77f4507eb)
