@@ -1,6 +1,6 @@
 # 생활 도우미 플랫폼, 라이프파트너
 
-<img width="1624" alt="image" src="https://user-images.githubusercontent.com/95613159/183024963-e7e88ecc-317d-4c1a-91b6-0eb68e17d59e.png">
+<img width="100%" src="https://user-images.githubusercontent.com/95613159/183604302-ce1a856b-d5ae-4e43-8423-e1f30abd0670.gif" />
 
 ## 💁 프로젝트 소개
 
