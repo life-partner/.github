@@ -104,3 +104,7 @@
 ## 🚨 API 오류
 
 - [Notion으로 이동해서 한 번에 보기](https://lifepartner.notion.site/api-7c4728fc53ad4c52960510a77f4507eb)
+
+## 🎬 시연
+
+- [시연 확인하기](https://soonzero.notion.site/24b5257366604a279c73b99d5cf361d8#f0add9b0b6a34a83950227d1210857a8)
